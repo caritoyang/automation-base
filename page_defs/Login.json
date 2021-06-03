@@ -1,0 +1,14 @@
+{
+  "Username": {
+    "xpath": "//input[@id='id_username']"
+  },
+  "Password": {
+    "xpath": "//input[@id='id_password']"
+  },
+  "Continue": {
+    "xpath": "//button[@id='login_btn' and normalize-space(text() = 'Continue')]"
+  },
+    "Login": {
+    "xpath": "//button[@id='login_btn' and normalize-space(text() = 'Login')]"
+  }
+}

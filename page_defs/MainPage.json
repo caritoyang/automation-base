@@ -1,0 +1,24 @@
+{
+  "Avatar": {
+    "xpath": "//p[contains(@class,\"MuiTypography-root avatar\")]"
+  },
+  "Logout": {
+    "xpath": "//a[contains(@href,'logout')]"
+  },
+  "Change Password": {
+    "xpath": "//a[contains(@href,'change_password')]"
+  },
+  "Current Password": {
+    "xpath": "//div[label[text()='Current Password']]//input[@type='password']"
+  },
+  "New Password": {
+    "xpath": "//div[label[text()='New Password']]//input[@type='password']"
+  },
+  "Confirm Password": {
+    "xpath": "//div[label[text()='Confirm Password']]//input[@type='password']"
+  },
+  "Save": {
+    "xpath": "//button[span[text()='Save']]"
+  }
+
+}
